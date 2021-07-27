@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pincode</string>
+    <string name="hint_enter_pincode">Enter pincode</string>
+    <string name="title_branch_type">Branch Type</string>
+    <string name="title_state">State</string>
+    <string name="title_country">Country</string>
+    <string name="title_pincode">Pincode</string>
+</resources>
